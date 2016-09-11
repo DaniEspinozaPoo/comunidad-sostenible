@@ -1,0 +1,54 @@
+/* Inserta tu codigo aqui */
+.row {
+	max-width: 100%;
+	margin: 0px auto;
+}
+
+.logo{
+	width: 40%;
+	margin-top: 5%;
+}
+
+ul ,li , a{
+	text-decoration: none;
+	list-style: none;
+	display: inline-block; 
+	color: #9491A6;
+	margin: 2px;
+	margin-top: 4%;
+	font-size: 19px;
+
+}
+.primera-parte{
+	background-image: url(../img/fondo2.jpg);
+	background-size: cover;	
+	background-repeat: no-repeat;
+	color: #3B701C;
+	width: 100%;
+	padding:2% 5%;
+
+}
+
+.titulo{
+	text-align: center;
+}
+
+	
+.galeria{
+	width: 100%;
+}
+.uno{
+	width: 100%;
+	float: right;
+	display: inline-block;
+	padding-bottom: 6%;
+}
+
+.icon{
+	width:30%;
+	margin-top: 100%;
+}
+
+.blog{
+	width:  100%;
+}
